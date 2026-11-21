@@ -1,0 +1,21 @@
+﻿{
+    "related_ca_folder":  "ca01-bm01-Mae",
+    "ca_id":  "ca01",
+    "bm_id":  "bm01",
+    "operator":  "Mae",
+    "ga_measurement_id":  "G-PTY57M66PW",
+    "full_url":  "https://dmg.uteishub.com",
+    "subdomain":  "dmg",
+    "github_repo":  "DougsCorp/Mae-bm01-ca01",
+    "status":  "deployed",
+    "product":  "CogniClear",
+    "notes":  "Subdominio dmg em uteishub.com; quiz v2 na slug /quiz-mm-v2/; qqp/calculatesupply permanece em ca01-bm01-Mae",
+    "domain":  "uteishub.com",
+    "pages":  [
+                  {
+                      "path":  "/quiz-mm-v2/",
+                      "template":  "Quiz-ps-CogniClear-v2",
+                      "type":  "ps"
+                  }
+              ]
+}
