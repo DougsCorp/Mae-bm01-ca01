@@ -13,9 +13,10 @@
     "domain":  "uteishub.com",
     "pages":  [
                   {
-                      "path":  "/quiz-mm-v2/",
-                      "template":  "Quiz-ps-CogniClear-v2",
-                      "type":  "ps"
+                      "type":  "ps",
+                      "template":  "Presell-ps-CogniClear-v1",
+                      "path":  "/quiz-mm-v2/"
                   }
-              ]
+              ],
+    "last_deployed_at":  "2026-11-22T16:36:05Z"
 }
